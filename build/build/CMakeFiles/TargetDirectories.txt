@@ -1,0 +1,3 @@
+/home/skrm/mirariDesktop/17Lifestory/Tool Developer/cmakepractice/build/CMakeFiles/testrun.dir
+/home/skrm/mirariDesktop/17Lifestory/Tool Developer/cmakepractice/build/CMakeFiles/edit_cache.dir
+/home/skrm/mirariDesktop/17Lifestory/Tool Developer/cmakepractice/build/CMakeFiles/rebuild_cache.dir
