@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/testrun.dir/src/main.o CMakeFiles/testrun.dir/src/first.o -o testrun 
